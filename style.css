@@ -78,16 +78,13 @@ color: #fff;
     width: 170px;
     height: 120px;
 }
-.btt:hover .dropdown_content {
-  left: 0;
- }
+.btt:hover .dropdown_content { left: 0;}
 .dropdown_content .d_item {
     text-decoration: none;
     color: #000;
     padding: 11px 13px;
    display: block;
    text-align: left;
-   
 }
 .dropdown_content .d_item:hover {
 background-color: lightgray;
@@ -106,9 +103,7 @@ box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
 }
-.fa-magnifying-glass {
-    color: #fff;
-}
+.fa-magnifying-glass {color: #fff;}
 .right:hover{
     background-color: red;
     margin-top: 0;
@@ -224,6 +219,9 @@ box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),
 .red {
     background-color: #f44336;
     color: #fff;
+}
+.right3 {
+    float: right;
 }
 .margin-left {margin-left: 16px;}
 .tag {
@@ -364,28 +362,26 @@ a { background-color: transparent;}
     font-size: 18px;
     margin-right: 190px;
 }
-.col {float: left;
-  
-   }
-
+.col {float: left;}
 .input2 {
     padding: 8px;
     display: block;
     font: inherit;
-    width: 96%;
+    width: 162px;
 }
 .row-padding > .half {
     float: left;
-    padding: 0 12px;
+    padding: 0 9px;
     margin-bottom: 8px;
 }
-.mm{
-    width: 93%;
+.mm {
+    width: 359px;
     margin-left: 10px;
 }
 .mdd {
     float: right;
     padding: 10px 12px;
+    margin-right: 8px;
 }
 
 /*Image of location/map*/

@@ -35,9 +35,7 @@ p {
     width: 100%;
     z-index: 1;
 }
-.bar { 
-   width: 100%;
-}
+.bar { width: 100%;}
 .bar_item {
 float: left;
 padding: 13px 25px;
@@ -70,12 +68,8 @@ color: #fff;
     padding-left: 25px;
     cursor: pointer;
 }
-.fa-caret-down {
-    padding-left: 5px;
-}
-.bar .btt{
-    position:relative;
-}
+.fa-caret-down { padding-left: 5px;}
+.bar .btt{position:relative;}
 .bar .btt .dropdown_content{
     position: absolute;
     left: -99999px;
@@ -167,15 +161,9 @@ box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),
     padding-top: 64px;
     padding-bottom: 64px;
 }
-.center {
-    text-align: center;
-}
-.container {
-    padding: 0.01em 16px;
-
- }
- 
-.center .bar {
+.center {text-align: center;}
+.container { padding: 0.01em 16px;}
+ .center .bar {
     display: inline-block;
     width: auto;
 }
@@ -183,10 +171,7 @@ box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),
     margin-left: auto;
     margin-right: auto;
  }
- .wide {
-    
-    margin-top: 15px;
- }
+ .wide { margin-top: 15px;}
  h2 {
     letter-spacing: 4px;
     font-size: 30px;
@@ -194,9 +179,7 @@ box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),
     display: block;
     margin-top: 70px;
 }
- .opacity {
-    opacity: 0.60;
-}
+ .opacity {opacity: 0.60;}
  .justify {
     text-align: justify;
     margin-top: 20px;
@@ -210,12 +193,8 @@ box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),
     float: left;
     width: 257px;
 }
- .margin-bottom {
-   margin-bottom: 6px;
- }
-.round{
-    border-radius: 4px;
- } 
+ .margin-bottom { margin-bottom: 6px;}
+.round {border-radius: 4px;} 
  
  /* The Tour Section*/
 
@@ -230,12 +209,8 @@ box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),
     background-color: #fff;
     color: #000;
  }
-.text-grey {
-    color: #757575;
- }
-.border {
-   border: 1px solid #ccc;
-}
+.text-grey { color: #757575;}
+.border {border: 1px solid #ccc;}
 .ul{
     list-style: none;
     padding: 0;
@@ -243,23 +218,14 @@ box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),
     margin-top: 8px;
     display: block;
 }
-.ul li {
-    border-bottom: 1px solid #ddd;
-}
-.padding {
-    padding: 8px 16px;
-  
-}
-.margin-bottom {
-    margin-bottom: 16px;
-}
+.ul li { border-bottom: 1px solid #ddd;}
+.padding {padding: 8px 16px;}
+.margin-bottom {margin-bottom: 16px;}
 .red {
     background-color: #f44336;
     color: #fff;
 }
-.margin-left {
-margin-left: 16px;
-}
+.margin-left {margin-left: 16px;}
 .tag {
     display: inline-block;
     padding-left: 8px;
@@ -267,12 +233,8 @@ margin-left: 16px;
     text-align: center;
     margin-left: 12px;
 }
-.ul li:last-child {
-    border-bottom: none;
-}
-.right {
-    float: right;
-}
+.ul li:last-child {border-bottom: none;}
+.right {float: right;}
 .margin-right {
     margin-right: 16px;
     margin-top: 2px;
@@ -295,9 +257,7 @@ margin-left: 16px;
     vertical-align: middle;
     overflow-y: hidden;
 }
-.hover-opacity:hover {
-    opacity: 0.60;
-}
+.hover-opacity:hover {opacity: 0.60;}
 .button {
     padding: 8px 16px;
     cursor: pointer;
@@ -354,34 +314,25 @@ margin-left: 16px;
         opacity: 1;
     }
 }
-.margin-right {
-    margin-right: 16px;
-}
-.card-4 {
-    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
-}
+.margin-right {margin-right: 16px;}
+.card-4 {box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);}
 .teal {
     background-color: #009688;
     color: #fff;
 }
-.xlarge {
-    font-size: 24px;
-}
+.xlarge {font-size: 24px;}
 .display-topright {
     position: absolute;
     right: 0;
     top: 0;
 }
-.label {
-    cursor: default;
-}
+.label {cursor: default;}
 .input {
     padding: 8px;
     display: block;
     font: inherit;
     width: 855px;
 }
-
 .padding-16 {
    padding-top: 16px;
    padding-bottom: 16px;
@@ -399,19 +350,13 @@ margin-left: 16px;
     color: #fff;
    padding: 10px 14px;
 }
-.text-blue {
-    color: #2196F3;
-}
-a {
-    background-color: transparent;
-}
+.text-blue {color: #2196F3;}
+a { background-color: transparent;}
 .section{
     margin-top: 16px;
     margin-bottom: 16px;
 }
-.right2 {
- float: right;
-}
+.right2 {float: right;}
 
 /*The Contact Section*/
 
@@ -419,9 +364,7 @@ a {
     font-size: 18px;
     margin-right: 200px;
 }
-.col {
-    float: left;
-}
+.col {float: left;}
 form {
     display: inline-block;
     margin-top: 0em;
@@ -449,20 +392,15 @@ form {
 
 /*Image of location/map*/
 
-.greyscale-min {
-    filter: grayscale(50%);
-}
+.greyscale-min {filter: grayscale(50%);}
 .image {
     max-width: 100%;
     height: auto;
     margin-top: 90px;
     margin-bottom: 60px;
 }
-.xlarge {
-    font-size: 24px;
-}
+.xlarge {font-size: 24px;}
 .medium {
     font-size: 15px;
     margin-bottom: 90px;
-
 }

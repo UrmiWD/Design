@@ -362,14 +362,12 @@ a { background-color: transparent;}
 
 .large {
     font-size: 18px;
-    margin-right: 200px;
+    margin-right: 190px;
 }
-.col {float: left;}
-form {
-    display: inline-block;
-    margin-top: 0em;
-    width: 100%;
-}
+.col {float: left;
+  
+   }
+
 .input2 {
     padding: 8px;
     display: block;
